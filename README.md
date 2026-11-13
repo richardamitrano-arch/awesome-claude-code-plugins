@@ -163,6 +163,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [performance-benchmarker](./plugins/performance-benchmarker)
 - [refractor](./plugins/refractor)
 - [sdlc-wizard](https://github.com/BaseInfinity/agentic-ai-sdlc-wizard) - SDLC enforcement plugin with hooks for TDD gates, planning workflow, confidence levels, and cross-model review. Installs via `npx agentic-sdlc-wizard init`.
+- [studio-kit](https://github.com/megwebstudio/studio-kit) - Website launch QA at three widths, defensive pre-launch checks and copy linting, with hooks for recognized production deploys and common secret patterns. MIT; Python 3 and Playwright for browser QA.
 - [test-file](./plugins/test-file)
 - [test-results-analyzer](./plugins/test-results-analyzer)
 - [test-writer-fixer](./plugins/test-writer-fixer)
